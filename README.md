@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/otadrive/community.svg)](https://gitter.im/otadrive/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # ESP32-OTA-Blinker
 Simple test for ESP32 firmware upgrade through OTAdrive
 
